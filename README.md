@@ -28,7 +28,7 @@ RB1 (RB transcriptional corepressor 1) is a tumor suppressor gene. It's best kno
 | Strand | + |
 | Approximate size | ~178 kb |
 
-**Screenshot 1:** `https://github.com/gedden20/disease-gene-bioinformatics/blob/main/screenshots/01_gene_location.png`
+**Screenshot 1:** ![RB1 gene location in UCSC Genome Browser](screenshots/01_gene_location.png)
 
 ---
 
