@@ -44,7 +44,7 @@ RB1 (RB transcriptional corepressor 1) is a tumor suppressor gene. It's best kno
 
 **Intron vs. exon length:** Introns are much longer than exons in RB1. The gene spans about 178 kb, but most of that length is intronic — the 27 exons are relatively short, separated by long connecting introns. This is typical for a large gene like RB1.
 
-**Screenshot 2:** `screenshots/02_gene_structure.png`
+**Screenshot 2:** ![RB1 exon and intron structure](screenshots/02_gene_structure.png)
 
 ---
 
@@ -60,7 +60,7 @@ RB1 (RB transcriptional corepressor 1) is a tumor suppressor gene. It's best kno
 
 **Why does strong conservation suggest biological importance (2–3 sentences):** Sequence that stays similar across distantly related species (mouse, chicken, zebrafish, etc.) has likely been under selective pressure to stay the same. If a mutation in that region were harmless, it would have accumulated changes randomly over evolutionary time — the fact that it hasn't suggests the sequence does something important, often coding for a critical part of the protein.
 
-**Screenshot 3:** `screenshots/03_tracks.png`
+**Screenshot 3:** ![RB1 gene with ClinVar and Conservation tracks](screenshots/03_tracks.png)
 
 ---
 
@@ -81,7 +81,7 @@ RB1 (RB transcriptional corepressor 1) is a tumor suppressor gene. It's best kno
 | Molecular consequence | Nonsense |
 | Record URL | [paste your ClinVar URL here] |
 
-**Screenshot 4:** `screenshots/04_clinvar_variant.png`
+**Screenshot 4:** ![ClinVar record for RB1 c.103C>T](screenshots/04_clinvar_variant.png)
 
 ---
 
@@ -97,7 +97,7 @@ RB1 (RB transcriptional corepressor 1) is a tumor suppressor gene. It's best kno
 
 **What additional evidence would be needed to confirm pathogenicity?** Functional/biochemical studies confirming loss of protein function, segregation data showing the variant tracks with disease in affected families, and population frequency data confirming its absence (or rarity) in healthy individuals. That said, ClinVar's 2-star "multiple submitters, no conflicts" status already reflects fairly strong existing clinical evidence.
 
-**Screenshot 5:** `screenshots/05_variant_in_ucsc.png`
+**Screenshot 5:** ![RB1 variant location in UCSC Genome Browser](screenshots/05_variant_in_ucsc.png)
 
 ---
 
