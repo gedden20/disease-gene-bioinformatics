@@ -1,8 +1,11 @@
 # Exploring RB1 Using UCSC Genome Browser and NCBI ClinVar
 
 **Name:** Gedden D. Estrevillo
+
 **Date:** September 22,2026
+
 **Assigned Gene:** RB1
+
 **Associated Disease:** Retinoblastoma
 
 ---
@@ -128,7 +131,7 @@ The most interesting feature was how tightly clustered the pathogenic ClinVar va
 
 - UCSC Genome Browser: https://genome.ucsc.edu/
 - NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
-- Selected ClinVar record: [paste your specific variant URL here]
+- Selected ClinVar record: https://ncbi.nlm.nih.gov/clinvar/variation/126818/ 
 
 ---
 
