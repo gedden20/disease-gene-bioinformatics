@@ -137,7 +137,6 @@ The most interesting feature was how tightly clustered the pathogenic ClinVar va
 
 ## Submission
 
-- **GitHub repository URL:** 
 - **Assigned gene:** RB1
 - **Selected ClinVar variant:** NM_000321.3(RB1):c.103C>T (p.Gln35Ter)
 - **Date completed:** September 22,2026
